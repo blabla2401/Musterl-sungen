@@ -1,2 +1,3 @@
 import numpy as np 
-... usw
+import pandas as pd
+...
